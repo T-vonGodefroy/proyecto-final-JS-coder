@@ -1,0 +1,65 @@
+[
+    {
+        "id":"1",
+        "nombre":"Iphone 15",
+        "descripcion": "256 GB",
+        "precio": 1390000,
+        "foto": "../media/iphone15.png"
+    },
+    {
+        "id":"2",
+        "nombre":"Samsung Galaxy S24",
+        "descripcion": "128 GB",
+        "precio": 1500000,
+        "foto": "../media/samsumgs24.png"
+    },
+    {
+        "id":"3",
+        "nombre":"Xiaomi 13",
+        "descripcion": "128 GB",
+        "precio": 1000000,
+        "foto": "../media/xiaomi.png"
+    },
+    {
+        "id":"4",
+        "nombre":"Computador Ryzen 7",
+        "descripcion": "HP",
+        "precio": 1800000,
+        "foto": "../media/pcryzen7.jpg"
+    },
+    {
+        "id":"5",
+        "nombre":"Laptop i7",
+        "descripcion": "Asus",
+        "precio": 2400000,
+        "foto": "../media/asusi7.jpg"
+    },
+    {
+        "id":"6",
+        "nombre":"Laptop i5",
+        "descripcion": "Acer",
+        "precio": 2100000,
+        "foto": "../media/aceri5.jpg"
+    },
+    {
+        "id":"7",
+        "nombre":"Audifonos",
+        "descripcion": "Hyper X",
+        "precio": 100000,
+        "foto": "../media/auhyperx.jpg"
+    },
+    {
+        "id":"8",
+        "nombre":"Mouse",
+        "descripcion": "Razer",
+        "precio": 80000,
+        "foto": "../media/mouserazer.jpg"
+    },
+    {
+        "id":"9",
+        "nombre":"Case",
+        "descripcion": "Original",
+        "precio": 70000,
+        "foto": "../media/caseiphone.jpg"
+    }
+]
